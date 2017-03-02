@@ -1,0 +1,28 @@
+Datos de usuario 
+ usuario: admin, password: 123
+ Direccion IP:127.0.0.1
+ Inicio de sesion:02/26/17 23:16:28
+Datos de usuario 
+ usuario: admin, password: 123
+ Direccion IP:127.0.0.1
+ Inicio de sesion:02/26/17 23:20:09
+Datos de usuario 
+ usuario: admin, password: 123
+ Direccion IP:127.0.0.1
+ Inicio de sesion:02/26/17 23:21:13
+Datos de usuario 
+ usuario: admin, password: 123
+ Direccion IP:127.0.0.1
+ Inicio de sesion:02/26/17 23:22:36
+Datos de usuario 
+ usuario: admin, password: 123
+ Direccion IP:127.0.0.1
+ Inicio de sesion:02/26/17 23:23:13
+Datos de usuario 
+ usuario: admin, password: 123
+ Direccion IP:127.0.0.1
+ Inicio de sesion:02/27/17 14:08:46
+Datos de usuario 
+ usuario: usuario1, password: 123
+ Direccion IP:127.0.0.1
+ Inicio de sesion:02/27/17 14:09:45
